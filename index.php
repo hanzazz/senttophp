@@ -5,7 +5,7 @@ $rawdata = file_get_contents('php://input');
 
 $servername = "fdb29.awardspace.net";
 $username = "3571483_linein";
-$password = "log987878789";
+$password = "log987878789*";
 $dbname = "3571483_linein";
 
 // Create connection
